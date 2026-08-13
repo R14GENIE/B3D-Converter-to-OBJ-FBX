@@ -127,6 +127,11 @@ The FBX output is binary FBX 7400, written by hand — Geometry with `LayerEleme
 - Vertex colours are parsed but not written to either output format.
 - Only the first UV set is exported.
 
+## Warning
+
+I'm not here to maintain that... I will update it if needed, enjoy it!
+Also the first connard who comes tell me it's about to use AI for this type of project, I recommend him to have time to lose, I'm not kind.
+
 ## License
 
 [0BSD](LICENSE) (BSD Zero Clause). Do whatever you want with it — no attribution required, no notice to keep. Copy the file straight into your own project if that's easier than depending on it.
